@@ -22,6 +22,7 @@ public class Solution {
 	}
 }
 
+
 //MAIN
 
 import java.util.Scanner;
